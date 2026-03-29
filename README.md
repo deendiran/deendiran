@@ -21,5 +21,5 @@
 
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=deendiran&theme=dark&ring=110249&file=110249&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=deendiran&hide_border=true&show_icons=true&bg_color=151515&title_color=110249&icon_color=110249&text_bold=false&text_color=9e9e9e)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=deendiran&theme=dark&ring=a9bbfb&file=a9bbfb&currStreakNum=a9bbfb&currStreakLabel=a9bbfb&hide_border=true)](https://git.io/streak-stats)
+
